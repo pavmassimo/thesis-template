@@ -1,5 +1,7 @@
 # TinyML Research Project Template
 
+**Version 0.1** (beta)
+
 A minimal, collaborative template for rigorous on-device learning research projects developed with AI agents and human feedback.
 
 ## Folder Structure
