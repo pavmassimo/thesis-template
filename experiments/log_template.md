@@ -2,6 +2,8 @@
 
 Keep a record of every experiment here. This is your lab notebook—it should be detailed enough that someone else (or you, six months later) can understand what happened and why.
 
+**Note:** This template is a suggestion. Personalize it to fit your project's needs. The key is capturing enough detail to reproduce your work and understand your results. Discuss your logging approach with an agent at the start of your project.
+
 ## Template Entry
 
 **Date:** YYYY-MM-DD  

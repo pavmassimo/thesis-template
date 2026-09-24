@@ -59,14 +59,19 @@ Flag these clearly in conversation: "I think we should discuss this with Massimo
 
 ## Experiment Logging
 
-Every experiment should have an entry in `experiments/log.md` (or similar) with:
-- **Date** — when it ran
-- **Objective** — what were we testing?
-- **Config** — hyperparameters, model, data split
-- **Result** — metrics, key findings
-- **Notes** — what worked, what surprised us, what to try next
+Every experiment should be logged in a way that captures enough detail to reproduce it and understand the results. **There is no mandatory format**—students should personalize their logging to fit their project.
 
-Agents should check these logs for completeness and consistency.
+**Before the first experiment, ask:**
+- "How do you want to track your experiments? What information matters most for your project?"
+- "Will you use a single log file, one file per experiment, a notebook, a spreadsheet? Whatever works for you."
+- "At minimum, we need to capture: what were you testing, what changed, what were the results, what did you learn."
+
+Then, as experiments happen:
+- Ask to see the log; check that it's detailed enough to reproduce the work
+- Point out missing details: "I can't tell what random seed you used here. Can you add that?"
+- Help them stay consistent: "Your last 3 experiments logged hyperparameters, but this one didn't. What's different?"
+
+The goal is reproducibility and learning, not compliance with a template.
 
 ## Communication Style
 
