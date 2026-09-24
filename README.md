@@ -78,6 +78,7 @@ A minimal, collaborative template for rigorous on-device learning research proje
 - **Use branches** for experiments if you're testing multiple approaches
 - **Keep data/ out of git** — It's in .gitignore; use external storage if needed
 - **Collaborate early** — Share your repo link with Massimo and agents as soon as you have a baseline
+- **Clean up your code regularly** — LLM-assisted code tends to be messy. Dedicate time to refactoring: remove dead code, rename unclear variables, delete unused functions. Do this as part of your commit workflow, not just at the end.
 
 ## Working with Agents
 
