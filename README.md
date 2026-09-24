@@ -17,6 +17,16 @@ A minimal, collaborative template for rigorous on-device learning research proje
 └── README.md            # This file
 ```
 
+## 🤖 Guidelines for Using Generative AI in Research
+
+**DTU Library provides important guidelines on responsible use of generative AI:**
+
+→ **[Kunstig Intelligens - Retningslinjer og Eksempler](https://www.bibliotek.dtu.dk/en/research-service/reference-management/kunstig-intelligens/eksempler)**
+
+This resource covers best practices for using AI ethically in research, maintaining academic integrity, and proper attribution. **Read this before you start collaborating with AI agents on your project.**
+
+---
+
 ## Workflow
 
 1. **Literature Review** — Read papers, record in `papers/papers.csv`, synthesize key findings
