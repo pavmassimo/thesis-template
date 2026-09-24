@@ -1,0 +1,17 @@
+# Data — never commit raw or processed data
+data/
+
+# Papers — PDFs are too large; link from papers.csv instead
+papers/*.pdf
+
+# Experiments — logs can get large; track in version control but exclude model artifacts
+experiments/**/checkpoints/
+experiments/**/*.pth
+experiments/**/*.h5
+experiments/**/.wandb/
+
+# Environment
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
